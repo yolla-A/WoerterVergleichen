@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Main_Prim"},{"p":"<Unnamed>","l":"PrimzahlThread"},{"p":"<Unnamed>","l":"ZwillingsPrime"}];updateSearchResults();
